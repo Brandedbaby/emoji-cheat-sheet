@@ -1182,7 +1182,8 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#objects) | :syringe: | `:syringe:` | :drop_of_blood: | `:drop_of_blood:` | [top](#table-of-contents) |
 | [top](#objects) | :pill: | `:pill:` | :adhesive_bandage: | `:adhesive_bandage:` | [top](#table-of-contents) |
-| [top](#objects) | :stethoscope: | `:stethoscope:` | | | [top](#table-of-contents) |
+| [top](#objects) | :stethoscope: | `:stethoscope:` | | | [top](#table-of-contents| [top](#table-of-contents) |
+| [top](#objects) | :sphygmomanometer:| `:blood-pressure-cuff:`| 
 
 #### Household
 
